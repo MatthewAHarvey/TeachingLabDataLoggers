@@ -1,2 +1,8 @@
 # TeachingLabDataLoggers
-Code used to control various teaching lab experiments.
+Arduino firmware and LabVIEW code used to control various teaching lab experiments.
+
+## Experiments:
+* Alloys
+* Critical Opalescence
+* Franck Hertz
+* Thermal Diffusivity
