@@ -6,3 +6,4 @@ Arduino firmware and LabVIEW code used to control various teaching lab experimen
 * Critical Opalescence
 * Franck Hertz
 * Thermal Diffusivity
+* Triode Experiment
